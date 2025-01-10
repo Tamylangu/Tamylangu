@@ -7,4 +7,4 @@ I am an undergraduate at the University of Washington Bothell with an interest i
 
 | Skill                                      | Associated Project         |
 |--------------------------------------------|----------------------------|
-| FERPA COMPLIANCE AND STUDENT DATA SECURITY | <a href="https://github.com/RaineJohnson/Session-Authentication.git">Session Authentication Using Node.js</a>|
+| FERPA COMPLIANCE AND STUDENT DATA SECURITY | <a href="https://github.com/Tamylangu/FERPA.git">FERPA Report</a>|

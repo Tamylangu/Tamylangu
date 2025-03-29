@@ -7,6 +7,7 @@ I am an undergraduate at the University of Washington Bothell with an interest i
 
 | Skill                                      | Associated Project         |
 |--------------------------------------------|----------------------------|
+| RECAPAI | <a href="https://amazing-macaron-76c421.netlify.app/">Recap AI Website</a>|
 | FERPA COMPLIANCE AND STUDENT DATA SECURITY | <a href="https://github.com/Tamylangu/FERPA.git">FERPA Report</a>|
 | POMODORO STUDY TIMER | <a href="dylant80.github.io/Pomodoro/">Pomodoro Website</a>|
 
